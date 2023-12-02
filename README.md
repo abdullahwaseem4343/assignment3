@@ -1,4 +1,4 @@
-# flutter_calories_calculator
+# calorie_tracker
 
 A new Flutter project.
 
